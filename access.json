@@ -1,7 +1,7 @@
 {
   "ownerNote": "Mini Rush tester allow-list. Add each headset's code (shown on the gate screen at launch) to 'allowed'. Remove a line to cut that tester off on their next launch. Set enabled=false to lock everyone out. allowAll=true temporarily lets anyone in. Keep names to first names/nicknames - this file is public.",
   "enabled": true,
-  "allowAll": false,
+  "allowAll": true,
   "minVersion": "0.1.1",
   "message": "Thanks for testing Mini Rush!",
   "allowed": [
